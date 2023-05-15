@@ -28,14 +28,6 @@ body {
 
 }
 
-.background-mobile {
-    width: 100%;
-    position: absolute;
-    z-index: -4;
-    top: 0;
-    left: 0;
-    display: none;
-}
 
 header {
     margin: 3em;
